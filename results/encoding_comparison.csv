@@ -1,0 +1,8 @@
+sequence_id,sequence_length,direct_pair_variables,direct_pair_conflicts,direct_formulation_ms,stem_variables,stem_conflicts,stem_formulation_ms,variable_reduction_percent,mfe_pair_coverage_percent
+toy_9,9,9,27,0.094,5,10,0.044,44.44,100.0
+official_prefix_12,12,17,108,0.717,9,36,0.093,47.06,100.0
+official_prefix_16,16,33,375,0.968,18,136,0.407,45.45,100.0
+official_prefix_20,20,59,1130,2.979,33,401,1.407,44.07,100.0
+official_prefix_28,28,100,3063,11.808,59,1301,6.089,41.0,100.0
+official_prefix_36,36,161,7102,33.885,82,2466,12.594,49.07,100.0
+official_prefix_44,44,313,23187,198.765,200,11459,78.286,36.1,100.0

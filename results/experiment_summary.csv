@@ -1,0 +1,4 @@
+experiment,sequence,method,structure,objective,vienna_energy_kcal_mol,mfe_energy_kcal_mol,energy_gap_kcal_mol,matched_reference
+official_document_candidate,GGAGCAAAACUUGUCGAUUGAGAACAAAAUACAGAAUUUGCUUG,provided_candidate,.................(((....))).................,,1.20,-7.90,9.10,False
+reduced_9nt,GGGAAACCC,exact_qubo,(((...))),-9.0,-1.20,-1.20,0.00,True
+reduced_9nt,GGGAAACCC,qaoa_p1_seed42,.((...).),-6.0,5.90,-1.20,7.10,False

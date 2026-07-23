@@ -1,0 +1,10 @@
+condition,seed,shots,one_qubit_error,two_qubit_error,objective,objective_gap,structure,vienna_energy_kcal_mol,vienna_energy_gap_kcal_mol,matched_exact_qubo,runtime_seconds
+ideal,7,2048,0.0,0.0,-9.0,0.0,(((...))),-1.2,0.0,True,2.787
+ideal,21,2048,0.0,0.0,-9.0,0.0,(((...))),-1.2,0.0,True,1.995
+ideal,42,2048,0.0,0.0,-9.0,0.0,(((...))),-1.2,0.0,True,2.59
+low_noise,7,2048,0.001,0.01,-9.0,0.0,(((...))),-1.2,0.0,True,8.422
+low_noise,21,2048,0.001,0.01,-9.0,0.0,(((...))),-1.2,0.0,True,11.251
+low_noise,42,2048,0.001,0.01,-9.0,0.0,(((...))),-1.2,0.0,True,6.732
+high_noise,7,2048,0.005,0.03,-9.0,0.0,(((...))),-1.2,0.0,True,6.719
+high_noise,21,2048,0.005,0.03,-9.0,0.0,(((...))),-1.2,0.0,True,9.161
+high_noise,42,2048,0.005,0.03,-9.0,0.0,(((...))),-1.2,0.0,True,7.667

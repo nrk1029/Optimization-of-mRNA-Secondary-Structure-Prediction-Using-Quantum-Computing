@@ -1,0 +1,5 @@
+id,sequence,structure,mfe_kcal_mol,length,runtime_ms
+example_document,GGAGCAAAACUUGUCGAUUGAGAACAAAAUACAGAAUUUGCUUG,.(((((((..((((...(((....)))...))))..))))))).,-7.90,44,1.681
+hairpin_small,GGGAAACCC,(((...))),-1.20,9,0.039
+short_gc,GCGCUUCGCG,(((...))).,-2.10,10,0.035
+short_mixed,AUGGCUACGUAGCU,..((((....)))),-2.00,14,0.051

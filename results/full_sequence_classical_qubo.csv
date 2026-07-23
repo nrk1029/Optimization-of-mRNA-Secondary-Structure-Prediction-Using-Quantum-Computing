@@ -1,0 +1,2 @@
+sequence_length,variables,quadratic_terms,seed,restarts,selected_pairs,qubo_energy,remaining_conflicts,predicted_structure,reference_structure,predicted_vienna_energy_kcal_mol,reference_mfe_kcal_mol,energy_gap_kcal_mol,precision,recall,f1
+44,313,23187,42,10,14,-31.0,0,.(((((.((.((((.(..(....))(...)))..))))))))).,.(((((((..((((...(((....)))...))))..))))))).,13.8,-7.9,21.7,0.5,0.5,0.5
