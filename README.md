@@ -3,7 +3,7 @@
 [![CI](https://github.com/nrk1029/Optimization-of-mRNA-Secondary-Structure-Prediction-Using-Quantum-Computing/actions/workflows/ci.yml/badge.svg)](https://github.com/nrk1029/Optimization-of-mRNA-Secondary-Structure-Prediction-Using-Quantum-Computing/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/nrk1029/Optimization-of-mRNA-Secondary-Structure-Prediction-Using-Quantum-Computing)](https://github.com/nrk1029/Optimization-of-mRNA-Secondary-Structure-Prediction-Using-Quantum-Computing/releases)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 **WISER x Moderna Quantum Challenge 2026 submission**
 
@@ -221,4 +221,4 @@ WISER x Moderna Quantum Challenge 2026
 
 ## License
 
-This repository is distributed under the [MIT License](LICENSE).
+This repository is distributed under the [Apache License 2.0](LICENSE).
